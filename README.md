@@ -3,16 +3,18 @@ Englightful learning at FAC
 
 We are learning to use github
 
--git --version
+*git --version
 
--git clone
+*git clone
 
--git add
+*git add
 
--git commit
+*git commit
 
--git push
+*git push
 
--git pull
+*git pull
 
--git status
+*git status
+
+*git log
