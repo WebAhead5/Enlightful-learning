@@ -18,3 +18,7 @@ We are learning to use github
 *git status
 
 *git log
+
+https://ohshitgit.com/
+
+https://dzone.com/articles/top-20-git-commands-with-examples
