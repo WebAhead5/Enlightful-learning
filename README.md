@@ -3,6 +3,10 @@ Englightful learning at FAC
 
 We are learning to use github
 
+-git --version
+
+-git clone
+
 -git add
 
 -git commit
@@ -10,3 +14,5 @@ We are learning to use github
 -git push
 
 -git pull
+
+-git status
